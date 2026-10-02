@@ -1,0 +1,17 @@
+GeoShield ID — notices for bundled dependencies
+
+Direct runtime dependencies:
+- React 18 — MIT License
+- React DOM 18 — MIT License
+- RBush 4 — MIT License (spatial indexing)
+- @types/rbush — MIT License (development type declarations)
+
+Development dependencies:
+- Vite 6 and @vitejs/plugin-react — MIT License
+- TypeScript 5.6 — Apache License 2.0
+- Vitest 4 — MIT License
+- @types/react and @types/react-dom — MIT License
+
+Dependency licenses and notices are distributed by their respective packages
+in node_modules after installation. No third-party map tiles, fonts, images,
+analytics, or other hosted assets are bundled or requested.
